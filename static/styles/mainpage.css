@@ -1,0 +1,52 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    font-weight: 400;
+}
+h1#heading {
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+}
+
+form{
+    max-width: 317px;
+  margin: auto;
+  margin-top:41px;
+}
+.main {
+    margin-top: 7%;
+}
+.submit {
+    
+    margin-top: 25px;
+    border: white;
+    background: #FF6F61;
+    color: black;
+    color: white;
+    font-weight: 200;
+}
+.row {
+    padding-top: 18px;
+    
+}
+#txtbox{
+    width: 100%;
+}
+select{
+    width: 100%;
+}
+.Error{
+    color:red;
+    display:none;
+}
+.Age_Error{
+    display: none;
+}
+.container{
+    display:inline-block;
+    text-align:center;    
+}
+
+.alert{
+ 
+}
