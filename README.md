@@ -22,6 +22,8 @@
 - pip install wordcloud
 - pip install re
 
+# Data used  in this project:
+https://www.kaggle.com/uciml/sms-spam-collection-dataset
 # Visualization:
 ## WordCloud of spam words:
 
